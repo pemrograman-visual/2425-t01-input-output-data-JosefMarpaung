@@ -4,9 +4,10 @@
         <attribute name="name" value="T01"/>
         <attribute name="authors" value="ASUS"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2024-09-06 11:31:49 AM"/>
-        <attribute name="created" value="QVNVUztERVNLVE9QLVBDN1QyVVY7MjAyNC0wOS0wNjsxMDoxMDo0OSBBTTsyNjcz"/>
-        <attribute name="edited" value="QVNVUztERVNLVE9QLVBDN1QyVVY7MjAyNC0wOS0wNjsxMTozMTo0OSBBTTszOzI3ODc="/>
+        <attribute name="saved" value="2024-09-06 11:46:43 AM"/>
+        <attribute name="created" value="QVNVUztERVNLVE9QLVBDN1QyVVY7MjAyNC0wOS0wNjsxMToxNjo1NyBBTTsyNjc5"/>
+        <attribute name="edited" value="QVNVUztERVNLVE9QLVBDN1QyVVY7MjAyNC0wOS0wNjsxMToxODoyNiBBTTs0O0FTVVM7REVTS1RPUC1QQzdUMlVWOzIwMjQtMDktMDY7MTA6MTA6NDkgQU07VDAxLmZwcmc7NjIzNw=="/>
+        <attribute name="edited" value="QVNVUztERVNLVE9QLVBDN1QyVVY7MjAyNC0wOS0wNjsxMTo0Njo0MyBBTTsxOzI3ODU="/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
@@ -18,8 +19,8 @@
             <input variable="Judul"/>
             <input variable="Penulis"/>
             <input variable="Penerbit"/>
-            <input variable="Formatbuku"/>
             <input variable="Tahunterbit"/>
+            <input variable="Formatbuku"/>
             <input variable="Stok"/>
             <input variable="Hargapembelian"/>
             <input variable="Minimummargin"/>

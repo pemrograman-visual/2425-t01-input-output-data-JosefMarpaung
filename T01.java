@@ -1,6 +1,5 @@
 // 12S24005-MIA NATHANIA SIBUEA
 // 12S24036-JOSEF CHRISTIAN MARPAUNG
-
 import java.util.*;
 import java.lang.Math;
 
@@ -16,8 +15,8 @@ public class T01 {
         judul = input.nextLine();
         penulis = input.nextLine();
         penerbit = input.nextLine();
-        formatbuku = input.nextLine();
         tahunterbit = Integer.parseInt(input.nextLine());
+        formatbuku = input.nextLine();
         stok = Integer.parseInt(input.nextLine());
         hargapembelian = Double.parseDouble(input.nextLine());
         minimummargin = Double.parseDouble(input.nextLine());
