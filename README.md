@@ -22,7 +22,7 @@ Ucok kemudian menambahkan beberapa properti lagi untuk melengkapi:
 9. Stok. Jumlah stok buku. Minimum 0 (tidak tersedia) dan > 0 jika tersedia.
 10. Rating. Rata-rata review penilaian dengan rentang 0.0 s.d. 5.0. Semakin besar semakin bagus penilaiannya.
 
-## Input-Output Simulation (T01)
+## Input-Out put Simulation (T01)
 
 Tugas berikutnya, kembangkan sebuah solusi sederhana yang secara berturut-turut akan membaca kesepuluh properti buku. Setiap properti baca dalam satu baris masukan. Selanjutnya, tampilkan semua nilai properti yang telah dimasukkan dalam satu baris keluaran. Antara properti yang satu dengan properti lainnya dipisahkan dengan tanda pipe ```|```. Perhatikan dua contoh berikut.
 
