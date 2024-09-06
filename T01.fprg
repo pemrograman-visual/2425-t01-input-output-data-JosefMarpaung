@@ -4,10 +4,10 @@
         <attribute name="name" value="T01"/>
         <attribute name="authors" value="ASUS"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2024-09-06 11:46:43 AM"/>
+        <attribute name="saved" value="2024-09-06 02:04:47 PM"/>
         <attribute name="created" value="QVNVUztERVNLVE9QLVBDN1QyVVY7MjAyNC0wOS0wNjsxMToxNjo1NyBBTTsyNjc5"/>
         <attribute name="edited" value="QVNVUztERVNLVE9QLVBDN1QyVVY7MjAyNC0wOS0wNjsxMToxODoyNiBBTTs0O0FTVVM7REVTS1RPUC1QQzdUMlVWOzIwMjQtMDktMDY7MTA6MTA6NDkgQU07VDAxLmZwcmc7NjIzNw=="/>
-        <attribute name="edited" value="QVNVUztERVNLVE9QLVBDN1QyVVY7MjAyNC0wOS0wNjsxMTo0Njo0MyBBTTsxOzI3ODU="/>
+        <attribute name="edited" value="QVNVUztERVNLVE9QLVBDN1QyVVY7MjAyNC0wOS0wNjswMjowNDo0NyBQTTszOzI4MDA="/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
@@ -18,12 +18,12 @@
             <input variable="ISBN"/>
             <input variable="Judul"/>
             <input variable="Penulis"/>
-            <input variable="Penerbit"/>
             <input variable="Tahunterbit"/>
+            <input variable="Penerbit"/>
             <input variable="Formatbuku"/>
-            <input variable="Stok"/>
             <input variable="Hargapembelian"/>
             <input variable="Minimummargin"/>
+            <input variable="Stok"/>
             <input variable="Rating"/>
             <output expression="isbn&amp;&quot;|&quot;&amp;judul&amp;&quot;|&quot;&amp;penulis&amp;&quot;|&quot;&amp;tahunterbit&amp;&quot;|&quot;&amp;penerbit&amp;&quot;|&quot;&amp;formatbuku&amp;&quot;| &quot;&amp;hargapembelian&amp;&quot;|&quot;&amp;minimummargin&amp;&quot;|&quot;&amp;stok&amp;&quot;|&quot;&amp;rating" newline="True"/>
         </body>
