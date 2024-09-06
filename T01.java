@@ -14,12 +14,12 @@ public class T01 {
         iSBN = input.nextLine();
         judul = input.nextLine();
         penulis = input.nextLine();
-        tahunterbit = Integer.parseInt(input.nextLine());
         penerbit = input.nextLine();
         formatbuku = input.nextLine();
+        tahunterbit = Integer.parseInt(input.nextLine());
+        stok = Integer.parseInt(input.nextLine());
         hargapembelian = Double.parseDouble(input.nextLine());
         minimummargin = Double.parseDouble(input.nextLine());
-        stok = Integer.parseInt(input.nextLine());
         rating = Double.parseDouble(input.nextLine());
         System.out.println(iSBN + "|" + judul + "|" + penulis + "|" + tahunterbit + "|" + penerbit + "|" + formatbuku + "| " + hargapembelian + "|" + minimummargin + "|" + stok + "|" + rating);
     }

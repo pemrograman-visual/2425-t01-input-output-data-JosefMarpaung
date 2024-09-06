@@ -4,10 +4,9 @@
         <attribute name="name" value="T01"/>
         <attribute name="authors" value="ASUS"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2024-09-06 02:30:36 PM"/>
-        <attribute name="created" value="QVNVUztERVNLVE9QLVBDN1QyVVY7MjAyNC0wOS0wNjsxMToxNjo1NyBBTTsyNjc5"/>
-        <attribute name="edited" value="QVNVUztERVNLVE9QLVBDN1QyVVY7MjAyNC0wOS0wNjsxMToxODoyNiBBTTs0O0FTVVM7REVTS1RPUC1QQzdUMlVWOzIwMjQtMDktMDY7MTA6MTA6NDkgQU07VDAxLmZwcmc7NjIzNw=="/>
-        <attribute name="edited" value="QVNVUztERVNLVE9QLVBDN1QyVVY7MjAyNC0wOS0wNjswMjozMDozNiBQTTs0OzI3OTg="/>
+        <attribute name="saved" value="2024-09-06 03:27:44 PM"/>
+        <attribute name="created" value="QVNVUztERVNLVE9QLVBDN1QyVVY7MjAyNC0wOS0wNjswMzoxMzoxNiBQTTsyNjg3"/>
+        <attribute name="edited" value="QVNVUztERVNLVE9QLVBDN1QyVVY7MjAyNC0wOS0wNjswMzoyNzo0NCBQTTsxOzI4MDE="/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
@@ -25,7 +24,7 @@
             <input variable="Minimummargin"/>
             <input variable="Stok"/>
             <input variable="Rating"/>
-            <output expression="isbn&amp;&quot;|&quot;&amp;judul&amp;&quot;|&quot;&amp;penulis&amp;&quot;|&quot;&amp;tahunterbit&amp;&quot;|&quot;&amp;penerbit&amp;&quot;|&quot;&amp;formatbuku&amp;&quot;| &quot;&amp;hargapembelian&amp;&quot;|&quot;&amp;minimummargin&amp;&quot;|&quot;&amp;stok&amp;&quot;|&quot;&amp;rating" newline="True"/>
+            <output expression="ISBN&amp;&quot;|&quot;&amp;Judul&amp;&quot;|&quot;&amp;Penulis&amp;&quot;|&quot;&amp;Tahunterbit&amp;&quot;|&quot;&amp;Penerbit&amp;&quot;|&quot;&amp;Formatbuku&amp;&quot;|&quot;&amp;Hargapembelian&amp;&quot;|&quot;&amp;Minimummargin&amp;&quot;|&quot;&amp;Stok&amp;&quot;|&quot;&amp;Rating" newline="True"/>
         </body>
     </function>
 </flowgorithm>
