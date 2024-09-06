@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="T01"/>
+        <attribute name="authors" value="ASUS"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-06 11:31:49 AM"/>
+        <attribute name="created" value="QVNVUztERVNLVE9QLVBDN1QyVVY7MjAyNC0wOS0wNjsxMDoxMDo0OSBBTTsyNjcz"/>
+        <attribute name="edited" value="QVNVUztERVNLVE9QLVBDN1QyVVY7MjAyNC0wOS0wNjsxMTozMTo0OSBBTTszOzI3ODc="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="ISBN, Judul, Penulis, Penerbit, Formatbuku" type="String" array="False" size=""/>
+            <declare name="Tahunterbit, Stok" type="Integer" array="False" size=""/>
+            <declare name="Hargapembelian, Minimummargin, Rating" type="Real" array="False" size=""/>
+            <input variable="ISBN"/>
+            <input variable="Judul"/>
+            <input variable="Penulis"/>
+            <input variable="Penerbit"/>
+            <input variable="Formatbuku"/>
+            <input variable="Tahunterbit"/>
+            <input variable="Stok"/>
+            <input variable="Hargapembelian"/>
+            <input variable="Minimummargin"/>
+            <input variable="Rating"/>
+            <output expression="isbn&amp;&quot;|&quot;&amp;judul&amp;&quot;|&quot;&amp;penulis&amp;&quot;|&quot;&amp;tahunterbit&amp;&quot;|&quot;&amp;penerbit&amp;&quot;|&quot;&amp;formatbuku&amp;&quot;| &quot;&amp;hargapembelian&amp;&quot;|&quot;&amp;minimummargin&amp;&quot;|&quot;&amp;stok&amp;&quot;|&quot;&amp;rating" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
